@@ -1,0 +1,22 @@
+INSERT INTO your_table_name (ktu_id, first_name, last_name)
+VALUES ('MDL21CS001', 'Darren', 'Crane'),
+    ('MDL21CS002', 'Anjali', 'Cain'),
+    ('MDL21CS003', 'Ameera', 'Rasmussen'),
+    ('MDL21CS004', 'Demi-Leigh', 'Mack'),
+    ('MDL21CS005', 'Alyssia', 'Bartlett'),
+    ('MDL21CS006', 'Jim', 'Schroeder'),
+    ('MDL21CS007', 'Connie', 'Webb'),
+    ('MDL21CS008', 'Grover', 'Beltran'),
+    ('MDL21CS009', 'Summer', 'Pruit'),
+    ('MDL21CS010', 'Eesa', 'Andrade'),
+    ('MDL21CS011', 'Leila', 'Adkins'),
+    ('MDL21CS012', 'Declan', 'Lindsay'),
+    ('MDL21CS013', 'Lennon', 'Campos'),
+    ('MDL21CS014', 'Finneley', 'Zimmerman'),
+    ('MDL21CS015', 'Nikhil', 'Heath'),
+    ('MDL21CS016', 'Haleema', 'Jordan'),
+    ('MDL21CS017', 'Willard', 'Calhoun'),
+    ('MDL21CS018', 'Ryan', 'Owens'),
+    ('MDL21CS019', 'Sebastien', 'Mcguire'),
+    ('MDL21CS020', 'Elinor', 'Baldwin');
+    
